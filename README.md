@@ -72,4 +72,3 @@ Asymptotic Mixed Graph Convolutional with Trend-Aware Self-Attention Networks fo
 For questions about the code, please open an issue in this repository.
 
 ```
-```
