@@ -1,4 +1,3 @@
-````markdown
 # AMG-TSA
 
 Official implementation of **AMG-TSA: Asymptotic Mixed Graph Convolutional with Trend-Aware Self-Attention Networks for Traffic Flow Forecasting**.
